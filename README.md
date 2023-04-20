@@ -1,2 +1,6 @@
-# web-scraper
- A Python script that is uncomplicated in nature, designed to carry out web scraping activities on certain Tunisian websites and retrieve data pertaining to details of products
+<h1>Installation</h1>
+<ul>
+<li>Run pip install requests</li>
+<li>Run pip install beautifulsoup4</li>
+<li>Run pip install lxml</li>
+ </ul>
